@@ -4,7 +4,7 @@ Automação em Node.js com Playwright feita para a disciplina TEST – Testes Au
 
 O teste abre o https://pt.anotepad.com e preenche:
 
-- **Título:** `Entrega trabalho TEST DAS 2024`
+- **Título:** `Entrega trabalho TEST DAS 2025`
 - **Corpo:** nome e matrícula do aluno
 
 Depois confere se os valores ficaram nos campos, destaca o campo de conteúdo (borda vermelha e fundo amarelo) e salva o print em `evidencias/anotepad-preenchido.png`.
