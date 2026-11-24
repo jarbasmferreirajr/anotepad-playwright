@@ -1,4 +1,4 @@
-# Entrega trabalho TEST DAS 2024: automação no anotepad
+# Entrega trabalho TEST DAS 2025: automação no anotepad
 
 Automação em Node.js com Playwright feita para a disciplina TEST – Testes Automatizados da Especialização em Desenvolvimento Ágil de Software da UFPR.
 
