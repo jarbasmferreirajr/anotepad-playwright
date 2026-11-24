@@ -1,0 +1,17 @@
+{
+  "name": "anotepad-playwright",
+  "version": "1.0.0",
+  "description": "Automação que preenche uma nota no anotepad com nome e matrícula (Entrega trabalho TEST DAS 2024)",
+  "author": "Jarbas de Morais Ferreira Junior",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "setup": "npx playwright install chromium",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}

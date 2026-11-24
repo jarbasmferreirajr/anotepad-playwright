@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Saídas do Playwright
+playwright-report/
+test-results/
+
+# Prints gerados na execução (contêm nome e matrícula)
+evidencias/
+
+# Variáveis locais
+.env
