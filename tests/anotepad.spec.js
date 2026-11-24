@@ -9,7 +9,7 @@ if (!NOME || !MATRICULA) {
   throw new Error('Defina ALUNO_NOME e ALUNO_MATRICULA antes de rodar o teste (veja o README).');
 }
 
-const TITULO = 'Entrega trabalho TEST DAS 2024';
+const TITULO = 'Entrega trabalho TEST DAS 2025';
 
 const CORPO = `Nome: ${NOME}\nMatrícula: ${MATRICULA}`;
 const CAMINHO_PRINT = 'evidencias/anotepad-preenchido.png';
